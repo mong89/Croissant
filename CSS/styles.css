@@ -1,0 +1,24 @@
+body {
+  background: bisque;
+}
+
+h1 {
+  color: chocolate;
+  text-align: center;
+  margin-top: 80px;
+}
+
+h2 {
+  text-align: center;
+  padding: 30px;
+}
+
+.navigation-links {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 50px;
+}
